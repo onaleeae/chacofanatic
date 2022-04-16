@@ -1,0 +1,24 @@
+mystyles.css
+/*Onalee Estrada 4/15/2022*/
+
+.background{
+    background-color: rgb(135, 137, 142);
+}
+
+.title{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: aliceblue;
+    font-size: 55px;
+}
+
+.nav{
+    font: sans-serif;
+    color: aliceblue;
+}
+
+.idk{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(23, 23, 67);
+
+}
